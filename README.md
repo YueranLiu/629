@@ -1,2 +1,2 @@
 # 629
-EE  629 class
+EE  629 class project
